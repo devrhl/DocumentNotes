@@ -8,21 +8,19 @@
 
 web交互模型
 
-
-
-![图片 1](../../图片 1.png)
+![图片 1](https://devrhl.oss-cn-beijing.aliyuncs.com/NodeJS01/%E5%9B%BE%E7%89%87%201.png)
 
 #### 1.2 缺点
 
-![image-20201128103625288](NodeJs01.assets/image-20201128103625288.png)
+![image-20201128103625288](https://devrhl.oss-cn-beijing.aliyuncs.com/NodeJS01/image-20201128103625288.png)
 
 ### 2.NodeJS应用场景
 
-![image-20201128103748670](NodeJs01.assets/image-20201128103748670.png)
+![image-20201128103748670](https://devrhl.oss-cn-beijing.aliyuncs.com/NodeJS01/image-20201128103748670.png)
 
 ### 3.模块化
 
-![image-20201128103918229](NodeJs01.assets/image-20201128103918229.png)
+![image-20201128103918229](https://devrhl.oss-cn-beijing.aliyuncs.com/NodeJS01/image-20201128103918229.png)
 
 ![image-20201128103946428](NodeJs01.assets/image-20201128103946428.png)
 
