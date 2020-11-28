@@ -4,9 +4,11 @@
 
 #### 1.1.优点
 
-![image-20201128103534941](NodeJs01.assets/image-20201128103534941.jpg)
+![](https://i.loli.net/2020/11/28/GsHWlCV3fz1dYZE.png)
 
 web交互模型
+
+
 
 ![图片 1](../../图片 1.png)
 
