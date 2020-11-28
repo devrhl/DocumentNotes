@@ -4,7 +4,7 @@
 
 #### 1.1.优点
 
-![image-20201128103534941](NodeJs01.assets/image-20201128103534941.png)
+![image-20201128103534941](NodeJs01.assets/image-20201128103534941.jpg)
 
 web交互模型
 
