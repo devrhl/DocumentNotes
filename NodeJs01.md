@@ -22,7 +22,5 @@ web交互模型
 
 ![image-20201128103918229](https://devrhl.oss-cn-beijing.aliyuncs.com/NodeJS01/image-20201128103918229.png)
 
-![image-20201128103946428](NodeJs01.assets/image-20201128103946428.png)
-
 ### 3.1CommonJS
 
